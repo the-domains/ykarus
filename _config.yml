@@ -1,0 +1,14 @@
+layout_spectrum: 0.009211283
+color:
+  saturation: 0
+  lightness: 0.4912281
+  brandStrength: 0.7725564
+  brandColors:
+    - '#736A57'
+    - '#B1A58D'
+    - '#F5E9D9'
+    - '#161415'
+    - '#BC1B3A'
+  rhythmicContrast: 0.5438597
+typography_spectrum: 0.573572
+name: Ykarus
